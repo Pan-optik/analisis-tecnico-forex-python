@@ -30,7 +30,24 @@ Aplicar técnicas de análisis de datos (estadística, series temporales, visual
 
 ## 📈 Capturas del proyecto
 
-*(aquí irán las imágenes de tus gráficos)*
+### Bandas de Bollinger + SMA + Tendencia
+
+
+![Bollinger Bands](capturas/bollinger.png)
+
+
+
+### Dashboard interactivo en Power BI
+
+
+![Dashboard Power BI](capturas/dashboard_powerbi.png)
+
+
+
+### Distribución de variaciones diarias (RSI y percentiles)
+
+
+![Histograma RSI](capturas/histograma.png)
 
 ## 🚀 Cómo ejecutar
 
